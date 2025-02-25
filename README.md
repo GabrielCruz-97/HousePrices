@@ -2,6 +2,8 @@
 
 Repository created for the Kaggle competition on house price prediction in Ames, Iowa (United States).
 
+![title](images/cover.png)
+
 ## Step 1: First Model
 
 - In this stage, we performed only the basics to check the results without any data preprocessing or feature engineering.
