@@ -1,6 +1,7 @@
 ### HousePrices
 
-Repository created for the Kaggle competition on house price prediction in Ames, Iowa (United States).
+Repository created for the [Kaggle competition ](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) on house price prediction in Ames, Iowa (United States).
+
 
 ![title](images/cover.png)
 
